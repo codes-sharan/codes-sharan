@@ -40,15 +40,6 @@ A modern and fully functional eCommerce application with:
 - 💬 **Real-time chat** using Socket.io
 - 📊 **Responsive dashboard** for users and admins
 - ⚙️ Built with: `React`, `Next.js`, `TypeScript`, `Tailwind CSS`, `shadcn/ui`, `Redux Toolkit`, `Node.js`, `Express`, `MongoDB`
-- <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
 
 
 > Everything you'd expect from a production-grade eCommerce app — fast, scalable, and cleanly designed.
