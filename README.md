@@ -77,12 +77,24 @@ A modern and fully functional eCommerce application with:
 
 ---
 
+
 ### 🤝 Let's Connect
 
-- [Portfolio](https://sharanpanthi.com.np)
-- [LinkedIn](https://linkedin.com/in/sharanpanthi)
-- [Twitter](https://twitter.com/sharanpanthi)
-- [Email](mailto:shpanthi09@gmail.com)
+<p align="center">
+  <a href="https://sharanpanthi.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/sharanpanthi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/sharanpanthi" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:shpanthi09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 
 ---
 
