@@ -57,13 +57,13 @@ A modern and fully functional eCommerce application with:
 **📩 Request Access:** [shpanthi09@gmail.com]
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dpkihscr2/image/upload/v1745602198/nb1_dpo3d7.png" alt="Home Page" width="45%" /><br/>
-  <em>🏠 Home Page</em>
+  <img src="https://res.cloudinary.com/dpkihscr2/image/upload/v1745602198/nb1_dpo3d7.png" alt="Home Page" width="45%" />
+ 
+
+  <img src="https://res.cloudinary.com/dpkihscr2/image/upload/v1745602214/nb2_ni2kzx.png" alt="Admin Panel" width="45%" />
+
 </p>
-<p align="center">
-  <img src="https://res.cloudinary.com/dpkihscr2/image/upload/v1745602214/nb2_ni2kzx.png" alt="Admin Panel" width="45%" /><br/>
-  <em>🛠️ Admin Panel</em>
-</p>
+
 
 
 ---
