@@ -67,7 +67,13 @@ A modern and fully functional eCommerce application with:
 </p>
 
 ---
+### 🧠 My Programming Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codes-sharan&layout=compact&theme=radical&langs_count=6" width="50%" />
+</p>
+
+---
 
 ### 🤝 Let's Connect
 
