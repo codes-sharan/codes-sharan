@@ -18,6 +18,7 @@ I'm a passionate full-stack developer who loves crafting performant and accessib
 
 Check out my personal website to see my projects, blog posts, and more:  
 👉 [sharanpanthi.com.np](https://sharanpanthi.com.np)
+![portfolio-image](https://github.com/user-attachments/assets/227b2903-8b09-41f6-a8ac-43731a482e96)
 
 
 ### 🚀 Featured Projects
@@ -35,19 +36,8 @@ Check out my personal website to see my projects, blog posts, and more:
 
 - [React 19: Best Practices for Scalable and Modern Web Apps](https://www.sharanpanthi.com.np/blog/react-19-best-practices-for-scalable-and-modern-web-apps)  
  
-
-
-<p align="center">
-  <img src="https://res.cloudinary.com/dpkihscr2/image/upload/v1745602198/nb1_dpo3d7.png" alt="Home Page" width="45%" />
- 
-  <img src="https://res.cloudinary.com/dpkihscr2/image/upload/v1745602214/nb2_ni2kzx.png" alt="Admin Panel" width="45%" />
-
-</p>
-
-
-
 ---
-### 📊 GitHub Stats & Most Used Languages
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codes-sharan&show_icons=true&theme=radical" width="32%" />
