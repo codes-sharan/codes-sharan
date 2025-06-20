@@ -1,17 +1,13 @@
 # 👋 Hi, I'm Sharan, 
 
-### 🚀 Full-Stack Developer | MERN | Next.js | TypeScript | Tailwind CSS | shadcn/ui
-
-I'm a passionate full-stack developer who loves crafting performant and accessible web applications. My main stack includes:
-
+## 🚀 Full-Stack Developer crafting digital experiences
+My main stack includes:
 - ⚛️ React (with Next.js)
 - 🟢 Node.js + Express
 - 🛢️ MongoDB, PostgreSQL
 - 🧠 TypeScript
 - 🎨 Tailwind CSS + shadcn/ui
 - 🧩 RESTful APIs & modern tooling
-
----
 
 ---
 ## 🌐 My Portfolio
@@ -28,7 +24,7 @@ Check out my personal website to see my projects, blog posts, and more:
 - [Nepali Bazaar](https://nb.nepalibazaar.com.np)  
   ECommerce site built with MERN stack
 
-## 📝 Blog Posts
+### 📝 Blog Posts
 
 - [Unlocking the Power of the Cloud: A Guide to AWS Services](https://www.sharanpanthi.com.np/blog/unlocking-the-power-of-the-cloud-a-guide-to-aws-services)  
   An Article on popular AWS services in simplified article. 
@@ -36,7 +32,7 @@ Check out my personal website to see my projects, blog posts, and more:
 - [React 19: Best Practices for Scalable and Modern Web Apps](https://www.sharanpanthi.com.np/blog/react-19-best-practices-for-scalable-and-modern-web-apps)  
  
 ---
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codes-sharan&show_icons=true&theme=radical" width="32%" />
@@ -46,7 +42,7 @@ Check out my personal website to see my projects, blog posts, and more:
 
 ---
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://sharanpanthi.com.np" target="_blank">
