@@ -18,7 +18,6 @@ I'm a passionate full-stack developer who loves crafting performant and accessib
 
 Check out my personal website to see my projects, blog posts, and more:  
 👉 [sharanpanthi.com.np](https://sharanpanthi.com.np)
-![portfolio-image](https://github.com/user-attachments/assets/227b2903-8b09-41f6-a8ac-43731a482e96)
 
 
 ### 🚀 Featured Projects
