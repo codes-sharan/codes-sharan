@@ -6,7 +6,7 @@ I'm a passionate full-stack developer who loves crafting performant and accessib
 
 - ⚛️ React (with Next.js)
 - 🟢 Node.js + Express
-- 🍃 MongoDB, PostgreSQL
+- 🛢️ MongoDB, PostgreSQL
 - 🧠 TypeScript
 - 🎨 Tailwind CSS + shadcn/ui
 - 🧩 RESTful APIs & modern tooling
