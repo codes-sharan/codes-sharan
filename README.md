@@ -1,13 +1,16 @@
 # 👋 Hi, I'm Sharan, 
 
-## 🚀 Full-Stack Developer crafting digital experiences
-My main stack includes:
+## 🚀 Full-Stack Developer (AWS SAA Certified) crafting digital experiences
+
+**My main stack includes:**
+
 - ⚛️ React (with Next.js)
 - 🟢 Node.js + Express
 - 🛢️ MongoDB, PostgreSQL
 - 🧠 TypeScript
 - 🎨 Tailwind CSS + shadcn/ui
-- 🧩 RESTful APIs & modern tooling
+- ☁️ AWS (EC2, S3, Lambda, API Gateway, CloudFront, DynamoDB)
+
 
 ---
 ## 🌐 My Portfolio
