@@ -14,14 +14,15 @@ My main stack includes:
 
 Check out my personal website to see my projects, blog posts, and more:  
 👉 [sharanpanthi.com.np](https://sharanpanthi.com.np)
+👉 [websewa.org](https://websewa.org)
 
 
 ### 🚀 Featured Projects
 
-- [SP Academy](https://academy.sharanpanthi.com.np)  
+- [Syntaxl](https://syntaxl.websewa.org)  
   Elearning platform built with Next.js App Router, Typescript, Shadcn/Tailwind, MongoDB
 
-- [Nepali Bazaar](https://nb.nepalibazaar.com.np)  
+- [Nepali Bazaar](https://nepalibazaar.websewa.org)  
   ECommerce site built with MERN stack
 
 ### 📝 Blog Posts
