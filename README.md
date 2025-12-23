@@ -25,7 +25,7 @@ Check out my personal website to see my projects, blog posts, and more:
 - [Syntaxl](https://syntaxl.websewa.org)  
   Elearning platform built with Next.js App Router, Typescript, Shadcn/Tailwind, MongoDB
 
-- [Sajilo Shop](https://sajiloshop.websewa.org)  
+- [Sajilo Shop](https://ecommerce-demo.websewa.org)  
   ECommerce site built with MERN stack
 
 ### 📝 Blog Posts
